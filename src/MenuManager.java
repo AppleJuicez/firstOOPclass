@@ -1,7 +1,7 @@
 
 public class MenuManager 
 {
-	public MenuItem[] menus; 
+	public MenuItem[] menus;
 	
 	public MenuManager(int num_of_menus)
 	{
